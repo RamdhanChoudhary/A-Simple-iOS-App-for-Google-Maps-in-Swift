@@ -66,4 +66,5 @@ end
 - [Web-Request-using-URLSession](https://github.com/RamdhanChoudhary/A-Simple-iOS-App-to-make-Web-Request-using-URLSession-in-Swift)
 - [Barcode-Reader](https://github.com/RamdhanChoudhary/A-Simple-iOS-App-for-Barcode-Reader-in-Swift)
 - [Google-Maps](https://github.com/RamdhanChoudhary/A-Simple-iOS-App-for-Google-Maps-in-Swift)
+- [Barcode Generator](https://github.com/RamdhanChoudhary/A-Simple-iOS-App-for-Barcode-Generator-in-Swift)
 
