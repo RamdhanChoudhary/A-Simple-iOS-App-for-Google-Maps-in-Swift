@@ -44,7 +44,7 @@ end
 - [TableView](https://github.com/RamdhanChoudhary/A-Simple-TableView-App-written-in-Swift)
 - [CollectionView](https://github.com/RamdhanChoudhary/A-Simple-CollectionView-App-written-in-Swift)
 - [Audio-Player](https://github.com/RamdhanChoudhary/A-Simpe-Audio-Player-App-in-Swift)
-- [get-current-location](https://github.com/RamdhanChoudhary/A-Simple-iOS-App-to-get-current-location-and-show-it-on-Map-in--Swift)
+- [Current-location on Apple Map](https://github.com/RamdhanChoudhary/A-Simple-iOS-App-to-get-current-location-and-show-it-on-Map-in--Swift)
 - [CoreData](https://github.com/RamdhanChoudhary/A-Simple-iOS-App-to-use-CoreData-in-Swift)
 - [PDFkit](https://github.com/RamdhanChoudhary/A-Simple-iOS-App-to-use-PDFkit-in-Swift)
 - [Video-Player](https://github.com/RamdhanChoudhary/A-Simple-iOS-Video-Player-App-in-Swift)
